@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Paana 🚀](http://onelink.to/paananews)
+- 🌱 I’m currently learning NLP, ML in Production and FullStack
+- ⚡ Fun fact: I like home grown oranges 🍊 and Bob Dylan 🎧
+- 🥅 2021 Goals: Contribute more to Open Source projects
