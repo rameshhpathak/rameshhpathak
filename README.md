@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently co-founder at [Naamche 🚀](http://naamche.com)
+- 🔭 Co-founder at [Naamche 🚀](http://naamche.com)
 - 🌱 I’m learning NLP, ML in Production and FullStack
 - ⚡ Fun fact: I like home grown oranges 🍊 and Bob Dylan 🎧
 - 🥅 2021 Goals: Contribute more to Open Source projects
