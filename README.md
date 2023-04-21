@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Co-founder at [Naamche 🚀](http://naamche.com)
-- 🌱 I’m learning NLP, ML in Production and FullStack
+- 🌱 Exploring and experimenting with Generative AI
 - ⚡ Fun fact: I like home grown oranges 🍊 and Bob Dylan 🎧
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Side Projects leveraging Gen AI
