@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 Co-founder at [Naamche 🚀](http://naamche.com)
 - 🌱 Exploring and experimenting with Generative AI
-- ⚡ Fun fact: I like home grown oranges 🍊 and Bob Dylan 🎧
-- 🥅 2023 Goals: Side Projects leveraging Gen AI
+- ⚡ Fun fact: I like homegrown oranges 🍊 and Bob Dylan 🎧
+- 🥅 2024 Goals: Projects leveraging Gen AI
